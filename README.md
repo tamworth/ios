@@ -1,4 +1,4 @@
-#Unofficial iOS SDK for Sphero's BB-8
+#Unofficial iOS 9 SDK for Sphero's BB-8
 
 To pair the app with BB-8:
 
